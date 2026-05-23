@@ -1,170 +1,147 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=Muhammad%20Yudya%20Ananda%20Hasibuan&fontAlignY=40&fontSize=38&fontColor=ffffff&desc=Informatics%20Student%20•%20IoT%20Explorer%20•%20Web%20Developer&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000428,50:004e92,100:00c6ff&text=Muhammad%20Yudya%20Ananda%20Hasibuan&fontSize=38&fontAlignY=38&fontColor=ffffff&desc=Informatics%20Student%20•%20IoT%20Explorer%20•%20Creative%20Developer&descAlignY=58&animation=fadeIn"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=850&height=100&lines=Building+Ideas+Into+Digital+Reality;Flask+Developer+%7C+IoT+Enthusiast+%7C+Tech+Explorer;Creating+Smart+Systems+With+Passion+And+Purpose)](https://git.io/typing-svg)
+# 🚀 WELCOME TO MY DIGITAL SPACE
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Building+Future+With+Technology;Fullstack+Web+Developer;IoT+Innovator+%7C+Startup+Builder;Artificial+Intelligence+Explorer;Creating+Impact+Through+Code"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<div align="center">
+
+# 🌌 3D VISUAL SECTION
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="320"/>
+
+</div>
+
+---
+
+# 👨‍💻 ABOUT ME
+
+<img align="right" width="320" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzA4eG02cWQ1bTdrdG9sN2U5a2FxY3d2MjM3Nm9mY2xzdGN4eTF3dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l378BzHA5FwWFXVSg/giphy.gif"/>
 
 ```yaml
 name: Muhammad Yudya Ananda Hasibuan
 role: Informatics Engineering Student
-location: Indonesia
 
-focus:
-  - Web Development
+specialization:
+  - Flask Development
   - IoT System
+  - Machine Learning
+  - GIS Recommendation System
+  - UI/UX Design
+
+mindset:
+  "Technology should create impact, not just innovation."
+
+currently_learning:
   - Artificial Intelligence
-  - Geographic Information System
-  - Startup Prototype Development
+  - Advanced Backend Architecture
+  - Smart Automation System
 
-currently_building:
-  - Water Demand Prediction System
-  - Smart Boarding House Recommendation System
-  - Smart IoT Door Lock
-  - Digital Community Platform
-
-life_philosophy:
-  "Small ideas can become big innovations when consistency meets courage."
+dream:
+  "Building digital products that inspire millions."
 ```
 
 ---
 
-# 🚀 Tech Stack
+# ⚡ TECH STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,flask,mysql,php,html,css,javascript,bootstrap,git,github,vscode,linux,figma&perline=7"/>
+<img src="https://skillicons.dev/icons?i=python,flask,mysql,php,javascript,html,css,bootstrap,git,github,linux,vscode,figma&perline=7"/>
 
 </div>
 
 ---
 
-# 📊 GitHub Statistics
+# 🧠 AI • WEB • IOT • SYSTEM DESIGN
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=15&bg_color=0D1117"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=USERNAME&theme=tokyonight"/>
 
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+# 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=15"/>
+<img height="190em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117"/>
+
+<img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=20&bg_color=0D1117"/>
 
 </div>
 
 ---
 
-# 📈 Contribution Graph
+# 🔥 CONTRIBUTION STREAK
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&hide_border=true&border_radius=20"/>
 
 </div>
 
 ---
 
-# 🏆 Achievement Trophy
+# 🌐 INTERACTIVE 3D CONTRIBUTION GRAPH
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117&radius=16"/>
 
 </div>
 
 ---
 
-# 🌟 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🚰 Water Demand Prediction System
-Flask-based forecasting platform using Double Exponential Smoothing for predicting water usage and visualization dashboard.
-
-</td>
-
-<td width="50%">
-
-### 🏠 Smart Boarding House Recommendation
-GIS-based recommendation system using SMART & A* algorithms for helping students find ideal boarding houses.
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔐 Smart Door Lock IoT
-ESP32 smart lock & attendance prototype integrated with automation and digital monitoring.
-
-</td>
-
-<td width="50%">
-
-### 🌐 Digital Startup Prototype
-Building modern social & collaboration platform concepts focused on youth innovation and digital creativity.
-
-</td>
-</tr>
-</table>
-
----
-
-# 🌐 Connect With Me
+# 🏆 TROPHIES
 
 <div align="center">
 
-<a href="https://github.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=github" height="50"/>
-</a>
-
-<a href="https://instagram.com/USERNAME">
-<img src="https://skillicons.dev/icons?i=instagram" height="50"/>
-</a>
-
-<a href="https://linkedin.com/in/USERNAME">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
-</a>
-
-<a href="mailto:yourmail@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
-</a>
+<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=algolia&no-frame=true&margin-w=15&margin-h=15&column=4"/>
 
 </div>
 
 ---
 
-# ⚡ Current Goals
+# 🚀 FEATURED PROJECTS
 
-```txt
-📌 Building impactful digital products
-📌 Learning advanced machine learning
-📌 Developing IoT-based smart systems
-📌 Growing as tech entrepreneur
-📌 Creating technology that solves real-world problems
-```
+<div align="center">
+
+| 🚰 Water Prediction System | 🏠 Smart Recommendation |
+|---|---|
+| Flask forecasting platform using DES algorithm for water demand prediction | GIS recommendation system using SMART & A* algorithm |
+
+| 🔐 Smart IoT Door Lock | 🌐 Digital Startup Platform |
+|---|---|
+| ESP32-based smart security & attendance system | Social collaboration platform prototype for youth innovation |
+
+</div>
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 🌌 CYBERPUNK ANIMATION
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/216656980-df84a9a3-4fca-4d56-9b74-4d22b7f2b94f.gif" width="650"/>
+
+</div>
+
+---
+
+# 🐍 3D SNAKE CONTRIBUTION
 
 <div align="center">
 
@@ -174,40 +151,64 @@ Building modern social & collaboration platform concepts focused on youth innova
 
 ---
 
-# ☕ Random Dev Quote
+# 🎧 NOW PLAYING
 
 <div align="center">
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=31wexample&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=true"/>
 
 </div>
 
 ---
 
-# 🎧 Spotify Playing
+# 🌍 CONNECT WITH ME
 
 <div align="center">
 
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31w6v4example&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true"/>
+<a href="https://github.com/USERNAME">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/USERNAME">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
 ---
 
-# 👀 Profile Views
+# 👀 PROFILE VISITORS
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=USERNAME&label=PROFILE+VIEWS&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
 ---
 
+# 💡 PERSONAL PHILOSOPHY
+
 <div align="center">
 
-### ✨ "Turning ideas into systems, and systems into impact."
+## ✨ “Small ideas become powerful when executed consistently.”
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+</div>
+
+---
+
+# 🌌 FINAL SECTION
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000428,50:004e92,100:00c6ff"/>
 
 </div>
